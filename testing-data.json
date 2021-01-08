@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Please do problems 4, 5, 6 and 109 on pages 230 and 239. ",
+        "intent": "homework"
+    },
+    {
+        "text":"Present perfect indicative and subjunctive p. 161/162",
+        "intent":"homework"
+    },
+    {
+        "text":"Read Act 2, Scene 1 during class time",
+        "intent":"classwork"
+    },
+    {
+        "text":"Read p.p. 440 – 448"
+    }
+
+]
